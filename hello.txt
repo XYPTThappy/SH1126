@@ -12,7 +12,7 @@ hello git! hello atguigu!
 hello git! hello atguigu!
 hello git! hello atguigu!
 hello git! hello atguigu!
-hello git! hello atguigu!
-hello git! hello atguigu!
-666666666666666
+hello git! hello atguigu! by master
+hello git! hello atguigu! by hot-fix
+666666666666666 by hot-fix
 nihao

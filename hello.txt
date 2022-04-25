@@ -13,7 +13,6 @@ hello git! hello atguigu!
 hello git! hello atguigu!
 hello git! hello atguigu!
 hello git! hello atguigu!
-hello git! hello atguigu! by master merge test 
-666666666666666
-nihao by master-test
-
+hello git! hello atguigu! by master merge test
+666666666666666 by hot-fix merge test
+nihao
